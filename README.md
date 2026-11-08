@@ -1,4 +1,4 @@
-# CloudChat — Enterprise Real-Time Cloud Messaging & Collaboration Platform
+# CloudChat ΓÇö Enterprise Real-Time Cloud Messaging & Collaboration Platform
 
 [![React 18](https://img.shields.io/badge/React-18.3.1-blue.svg?logo=react)](https://reactjs.org/)
 [![Vite 6](https://img.shields.io/badge/Vite-6.4.5-646CFF.svg?logo=vite)](https://vitejs.dev/)
@@ -9,7 +9,7 @@
 
 ---
 
-## 📸 Interface Preview
+## ≡ƒô╕ Interface Preview
 
 ### 1. Enterprise Obsidian Workspace & Channel Intelligence
 ![CloudChat Workspace Dashboard](screenshots/cloudchat-dashboard.png)
@@ -25,51 +25,51 @@
 
 ---
 
-## ⚡ Core Capabilities & Features
+## ΓÜí Core Capabilities & Features
 
-### 🏢 1. Multi-Workspace Switcher Rail
+### ≡ƒÅó 1. Multi-Workspace Switcher Rail
 - Instant context-switching across isolated organizations:
   - **Amethyst Cloud Engineering**: Core systems, infrastructure feeds, and deployment automation.
   - **Raast Fintech Gateway**: MFS wallet rails, transaction settlement, and banking APIs.
   - **Crypto & Bullion Telemetry**: Real-time ticker feeds, market order flow, and spot pricing.
 - Dynamic **"Add Workspace"** orchestration and unified notification badges.
 
-### 💬 2. Real-Time Conversational Engine
+### ≡ƒÆ¼ 2. Real-Time Conversational Engine
 - **Rich Message Dispatch**: Supports Markdown formatted text, contextual quotes, and automatic timestamps.
-- **Micro-Reactions System**: Click-to-react chips (`👍`, `❤️`, `🔥`, `🚀`) with live counter increments.
+- **Micro-Reactions System**: Click-to-react chips (`≡ƒæì`, `Γ¥ñ∩╕Å`, `≡ƒöÑ`, `≡ƒÜÇ`) with live counter increments.
 - **Contextual Quote Replies**: Single-click reply quoting with linked reference ribbons.
 - **Dynamic In-Chat Search**: Real-time client-side substring indexing across active message threads.
 - **Attachments Engine**: Drag-and-drop or click-to-upload for mock media, PDFs, and high-res schematics.
 
-### 🎙️ 3. Voice Notes & Synthesized Waveforms
+### ≡ƒÄÖ∩╕Å 3. Voice Notes & Synthesized Waveforms
 - In-composer microphone recording state with animated live pulsing indicator.
 - Instant waveform visualization playback for transmitted voice notes.
 - Zero audio asset corruption via custom synthesized Web Audio generation.
 
-### 📞 4. Encrypted HD Audio & Video Call Suite
+### ≡ƒô₧ 4. Encrypted HD Audio & Video Call Suite
 - Modal-based call state with active elapsed call timer.
 - Live animated voice pulse avatars.
 - Interactive mic toggle (`Mute` / `Unmute`), camera toggle (`Video On` / `Video Off`), and termination triggers.
 - In-call synthesized ringtone audio feedback.
 
-### 📊 5. Contextual Channel Intelligence Drawer
+### ≡ƒôè 5. Contextual Channel Intelligence Drawer
 - Collapsible right-hand panel (replaces overflowing legacy drawers with responsive flex styling).
 - **Overview Tab**: Channel mission statements, security badges, and retention policy specs.
 - **Members Tab**: Live team roster with online presence beacons and role designations (`Lead Architect`, `AI Subsystem`, `Fintech Operations`).
 - **Files Tab**: Audit gallery of shared images, documents, and engineering assets.
 
-### 🎨 6. Dual Luxury Design System
+### ≡ƒÄ¿ 6. Dual Luxury Design System
 - **Obsidian Dark Mode**: High-contrast, OLED-friendly dark palette (`#080c14`, `#0d131f`, `#111927`) with emerald accents (`#10b981`).
 - **Clean Executive Light Mode**: Minimalist, crisp readability for daytime enterprise use.
 - Fully responsive layout adapting effortlessly across desktops, laptops, and tablet viewports.
 
-### 💾 7. Zero-Lag Local Persistence
+### ≡ƒÆ╛ 7. Zero-Lag Local Persistence
 - Full offline-first `localStorage` state hydration for chats, direct messages, custom channels, and profile edits.
 - Persists user preferences and interaction history across sessions.
 
 ---
 
-## 🛠️ Technology Stack
+## ≡ƒ¢á∩╕Å Technology Stack
 
 | Layer | Technologies |
 | :--- | :--- |
@@ -82,7 +82,7 @@
 
 ---
 
-## 🚀 Quickstart & Local Setup
+## ≡ƒÜÇ Quickstart & Local Setup
 
 ### Prerequisites
 - [Node.js](https://nodejs.org/) v18.0.0 or higher
@@ -90,8 +90,8 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Moeez-03/Whatsapp-clone.git
-cd Whatsapp-clone
+git clone https://github.com/Moeez-03/cloudchat.git
+cd cloudchat
 ```
 
 ### 2. Install Modernized Dependencies
@@ -113,7 +113,7 @@ Optimized static bundles will be compiled to the `/dist` directory, ready for ho
 
 ---
 
-## 🏛️ Architecture Flow
+## ≡ƒÅ¢∩╕Å Architecture Flow
 
 ```mermaid
 graph LR
@@ -143,12 +143,12 @@ graph LR
 
 ---
 
-## 🔒 Security & Data Integrity
+## ≡ƒöÆ Security & Data Integrity
 - **Role-Based Workspace Isolation**: Clean boundary separation between public engineering discussions and confidential fintech audit channels.
 - **Cryptographic Settings**: Pre-wired for end-to-end encryption keys and TLS 1.3 socket listeners.
 - **Sanitized DOM Output**: XSS-protected message rendering and sanitized media injection.
 
 ---
 
-## 📄 License
+## ≡ƒôä License
 This project is open-source under the [MIT License](LICENSE). Built with precision by **Amethyst**.
