@@ -152,6 +152,7 @@ graph LR
 
 ## Γëí╞Æ├┤├ñ License
 This project is open-source under the [MIT License](LICENSE). Built with precision by **Amethyst**.
+
 ---
 
 ## 💼 Need a Production-Grade Web Application?
