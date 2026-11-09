@@ -1,4 +1,4 @@
-# CloudChat ΓÇö Enterprise Real-Time Cloud Messaging & Collaboration Platform
+# CloudChat ╬ô├ç├╢ Enterprise Real-Time Cloud Messaging & Collaboration Platform
 
 [![React 18](https://img.shields.io/badge/React-18.3.1-blue.svg?logo=react)](https://reactjs.org/)
 [![Vite 6](https://img.shields.io/badge/Vite-6.4.5-646CFF.svg?logo=vite)](https://vitejs.dev/)
@@ -9,7 +9,7 @@
 
 ---
 
-## ≡ƒô╕ Interface Preview
+## Γëí╞Æ├┤Γòò Interface Preview
 
 ### 1. Enterprise Obsidian Workspace & Channel Intelligence
 ![CloudChat Workspace Dashboard](screenshots/cloudchat-dashboard.png)
@@ -25,51 +25,51 @@
 
 ---
 
-## ΓÜí Core Capabilities & Features
+## ╬ô├£├¡ Core Capabilities & Features
 
-### ≡ƒÅó 1. Multi-Workspace Switcher Rail
+### Γëí╞Æ├à├│ 1. Multi-Workspace Switcher Rail
 - Instant context-switching across isolated organizations:
   - **Amethyst Cloud Engineering**: Core systems, infrastructure feeds, and deployment automation.
   - **Raast Fintech Gateway**: MFS wallet rails, transaction settlement, and banking APIs.
   - **Crypto & Bullion Telemetry**: Real-time ticker feeds, market order flow, and spot pricing.
 - Dynamic **"Add Workspace"** orchestration and unified notification badges.
 
-### ≡ƒÆ¼ 2. Real-Time Conversational Engine
+### Γëí╞Æ├å┬╝ 2. Real-Time Conversational Engine
 - **Rich Message Dispatch**: Supports Markdown formatted text, contextual quotes, and automatic timestamps.
-- **Micro-Reactions System**: Click-to-react chips (`≡ƒæì`, `Γ¥ñ∩╕Å`, `≡ƒöÑ`, `≡ƒÜÇ`) with live counter increments.
+- **Micro-Reactions System**: Click-to-react chips (`Γëí╞Æ├ª├¼`, `╬ô┬Ñ├▒Γê⌐Γòò├à`, `Γëí╞Æ├╢├æ`, `Γëí╞Æ├£├ç`) with live counter increments.
 - **Contextual Quote Replies**: Single-click reply quoting with linked reference ribbons.
 - **Dynamic In-Chat Search**: Real-time client-side substring indexing across active message threads.
 - **Attachments Engine**: Drag-and-drop or click-to-upload for mock media, PDFs, and high-res schematics.
 
-### ≡ƒÄÖ∩╕Å 3. Voice Notes & Synthesized Waveforms
+### Γëí╞Æ├ä├ûΓê⌐Γòò├à 3. Voice Notes & Synthesized Waveforms
 - In-composer microphone recording state with animated live pulsing indicator.
 - Instant waveform visualization playback for transmitted voice notes.
 - Zero audio asset corruption via custom synthesized Web Audio generation.
 
-### ≡ƒô₧ 4. Encrypted HD Audio & Video Call Suite
+### Γëí╞Æ├┤Γéº 4. Encrypted HD Audio & Video Call Suite
 - Modal-based call state with active elapsed call timer.
 - Live animated voice pulse avatars.
 - Interactive mic toggle (`Mute` / `Unmute`), camera toggle (`Video On` / `Video Off`), and termination triggers.
 - In-call synthesized ringtone audio feedback.
 
-### ≡ƒôè 5. Contextual Channel Intelligence Drawer
+### Γëí╞Æ├┤├¿ 5. Contextual Channel Intelligence Drawer
 - Collapsible right-hand panel (replaces overflowing legacy drawers with responsive flex styling).
 - **Overview Tab**: Channel mission statements, security badges, and retention policy specs.
 - **Members Tab**: Live team roster with online presence beacons and role designations (`Lead Architect`, `AI Subsystem`, `Fintech Operations`).
 - **Files Tab**: Audit gallery of shared images, documents, and engineering assets.
 
-### ≡ƒÄ¿ 6. Dual Luxury Design System
+### Γëí╞Æ├ä┬┐ 6. Dual Luxury Design System
 - **Obsidian Dark Mode**: High-contrast, OLED-friendly dark palette (`#080c14`, `#0d131f`, `#111927`) with emerald accents (`#10b981`).
 - **Clean Executive Light Mode**: Minimalist, crisp readability for daytime enterprise use.
 - Fully responsive layout adapting effortlessly across desktops, laptops, and tablet viewports.
 
-### ≡ƒÆ╛ 7. Zero-Lag Local Persistence
+### Γëí╞Æ├åΓò¢ 7. Zero-Lag Local Persistence
 - Full offline-first `localStorage` state hydration for chats, direct messages, custom channels, and profile edits.
 - Persists user preferences and interaction history across sessions.
 
 ---
 
-## ≡ƒ¢á∩╕Å Technology Stack
+## Γëí╞Æ┬ó├íΓê⌐Γòò├à Technology Stack
 
 | Layer | Technologies |
 | :--- | :--- |
@@ -82,7 +82,7 @@
 
 ---
 
-## ≡ƒÜÇ Quickstart & Local Setup
+## Γëí╞Æ├£├ç Quickstart & Local Setup
 
 ### Prerequisites
 - [Node.js](https://nodejs.org/) v18.0.0 or higher
@@ -113,7 +113,7 @@ Optimized static bundles will be compiled to the `/dist` directory, ready for ho
 
 ---
 
-## ≡ƒÅ¢∩╕Å Architecture Flow
+## Γëí╞Æ├à┬óΓê⌐Γòò├à Architecture Flow
 
 ```mermaid
 graph LR
@@ -143,12 +143,22 @@ graph LR
 
 ---
 
-## ≡ƒöÆ Security & Data Integrity
+## Γëí╞Æ├╢├å Security & Data Integrity
 - **Role-Based Workspace Isolation**: Clean boundary separation between public engineering discussions and confidential fintech audit channels.
 - **Cryptographic Settings**: Pre-wired for end-to-end encryption keys and TLS 1.3 socket listeners.
 - **Sanitized DOM Output**: XSS-protected message rendering and sanitized media injection.
 
 ---
 
-## ≡ƒôä License
+## Γëí╞Æ├┤├ñ License
 This project is open-source under the [MIT License](LICENSE). Built with precision by **Amethyst**.
+---
+
+## 💼 Need a Production-Grade Web Application?
+
+Looking to build a responsive, low-latency web or mobile platform?
+- **Full-Stack SaaS Applications:** React, Next.js, Node.js, and Python backend microservices.
+- **Real-Time Systems:** WebSockets, presence protocols, and scalable cloud databases (Firebase, Supabase, Azure).
+
+👉 **[Book a 15-Minute Discovery Call](https://cal.com/abdul-moeez)**  
+📩 Or connect via **[LinkedIn](https://www.linkedin.com/in/abdul-moeez-nadeem-98a468205/)**
